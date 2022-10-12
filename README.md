@@ -18,9 +18,18 @@ Here are some ideas to get you started:
 > formatting syntax is to make it as readable
 > as possible.
 
-For start...
+For start ...
 ```sh
 git init
 git add .
 git commit -m "comments ..."
+...
+```
+For update ...
+```sh
+git add .
+git commit -m "comments ..."
+git push -u origin master
+git checkout gh-pages
+...
 ```
