@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
-[website]<https://melissaluoo.github.io/MelissaLuoo/0314_mine/index.html>
+
 > The overriding design goal for Markdown's
 > formatting syntax is to make it as readable
 > as possible.
@@ -34,3 +34,6 @@ git push -u origin master
 git checkout gh-pages
 ...
 ```
+[//]:
+   [dill]: <https://github.com/joemccann/dillinger>
+   [website] <https://melissaluoo.github.io/MelissaLuoo/0314_mine/index.html>
